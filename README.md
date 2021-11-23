@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on [MINDsLAB](https://maum.ai/?lang=en)
 - 🌱 I’m currently learning `Edge AI`, `ONNX`, `QNN`, `NCNN`
-- 💬 Ask me about : Telegram (@int80)
+- 💬 Ask me about : Telegram ([@int80](https://t.me/int80))
 - 📫 How to reach me : dkdkernel@gmail.com
 - ⚡ Fun fact: `Edge AI`
